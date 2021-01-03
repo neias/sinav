@@ -1,4 +1,4 @@
-[1.Soru - 101](https://jsbin.com/vedofuf/6/edit?js,console)
+[1.Soru - 101](https://jsbin.com/vedofuf/edit?js,console)
 
 [2.Soru - 102](https://jsbin.com/getaxew/edit?js,console)
 
