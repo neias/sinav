@@ -31,17 +31,20 @@ https://jsbin.com/ripejut/edit?js
 11.Soru - 205
 https://jsbin.com/wiwuvoj/edit?js
 
-12.Soru - 211
-https://jsbin.com/gogufan/edit?js
-
-13.Soru - 212
+12.Soru - 212
 https://jsbin.com/wekekej/edit?js,console
 
-14.Soru - 215
+13.Soru - 215
 https://jsbin.com/sukukam/edit?js,console
 
-15.Soru - 218
+14.Soru - 218
 https://jsbin.com/babocuz/edit?js,console
 
-16.Soru - 219
+15.Soru - 309
+https://jsbin.com/bopewin/edit?js
+
+16.Soru - 311
+https://jsbin.com/gogufan/edit?js
+
+17.Soru - 319
 https://jsbin.com/dejoyut/edit?js
